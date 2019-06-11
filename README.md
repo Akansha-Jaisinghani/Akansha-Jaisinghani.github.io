@@ -1,10 +1,10 @@
 # Welcome to My Website
 
 # **My projects are at**
-   [**Github Project**](https://github.com/Akansha-Jaisinghani)
+   [**Github Projects**](https://github.com/Akansha-Jaisinghani)
    
    
-   [**Kaggle Project**](https/www.kaggle.com/akansha25/kernels)
+   [**Kaggle Projects**](https/www.kaggle.com/akansha25/kernels)
    
 ## Website by - Akansha
 
